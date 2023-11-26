@@ -19,7 +19,7 @@ Online Shopping Web Page
 Description: It is a simple and attractive website which is very light and fast. For front end it uses frameworks like Bootstrap to make it responsive so that it can run on big screen and on small screen as well, moreover it is linked with database which means that it is not 
 simple HTML and CSS but the data shown to you is shown to you by the database using php. The features of this simple web page includes responsiveness, fast, light weight, attractive.
 
-Technologies Used: MySQL, XAMMP, myPhp, Php, HTML, CSS, Bootstrap, Javascript.
+Technologies Used: MySQL, XAMMP, PhpMyAdmin, Php, HTML, CSS, Bootstrap, Javascript.
 
 
 🌱 Currently Working On
